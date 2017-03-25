@@ -16,7 +16,4 @@ Code flow;
 Output file is summarize_dataset.txt
 
 
-Column(s) 	Names 	Description
-1	Subject	The independent participant who takes part in the survey
-2	Activity	The activity performed by the user
-3..	All the individual metrics 	The mean computed for individual metrics based on the grouping of Subject and Activity  
+Codebook: Codebook.xlsx
